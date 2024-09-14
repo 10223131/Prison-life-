@@ -1,2 +1,2 @@
 # Prison-life-
-Script for prison life only
+loadstring(game:HttpGet('https://raw.githubusercontent.com/elliexmln/PrizzLife/main/pladmin.lua'))()
